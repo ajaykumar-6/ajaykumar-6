@@ -80,19 +80,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaykumar-6&show_icons=true&theme=dracula" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumar-6&theme=dracula" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumar-6&layout=compact&theme=dracula" width="48%"/>
-</p>
-
-
----
 
 ## 💻 Coding Profiles  
 
